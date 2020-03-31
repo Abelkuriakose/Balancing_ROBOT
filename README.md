@@ -11,7 +11,7 @@ Base Link | Arm | Pendulum
 
 
 
-They were modelled in solidworks, converted to urdf using sw2urdf plugin. The urdf is used by ROS to control robot and by  gazebo to simulate the robot.
+They were modelled in solidworks, converted to urdf using plugin. The urdf is used by ROS to control robot and by  gazebo to simulate the robot.
 
 ### Controllers used in ROS
 

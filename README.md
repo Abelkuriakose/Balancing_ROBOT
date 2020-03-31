@@ -1,12 +1,14 @@
 # Balancing_ROBOT
-Balancing Rotary Inverted Pendulum
 
-Balancing of Rotary Inverted Pendulum
+## Balancing Rotary Inverted Pendulum
 
 Construction of Robot
+
 The robot is made of three parts - base, arm, pendulum.
    
-   Base 	 			Arm 				   Pendulum
+   <img src="Images/base.png" width="200"/> <img src="Images/arm.png" width="300"/>
+   
+   Base	Arm 				   Pendulum
 
 They were modelled in solidworks, converted to urdf using sw2urdf plugin. The urdf is used by ROS to control robot and by  gazebo to simulate the robot.
 

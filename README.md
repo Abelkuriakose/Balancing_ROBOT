@@ -15,9 +15,9 @@ They were modelled in solidworks, converted to urdf using sw2urdf plugin. The ur
 
 ### Controllers used in ROS
 
-Joint State Publisher - To get the current state of robot joints from gazebo. Here joint1 and joint2. It is available in ros.
-Joint Effort Controller - To control the torque applied to the particular joint. Here the torque is used to control joint1. Joint2 is a passive joint. It is available in ros.
-Balancing algorithm - To balance the pendulum in an upright position we have written a python program which commands the Joint Effort Controller how to change by reading joint values from Joint State Publisher.
+- Joint State Publisher - To get the current state of robot joints from gazebo. Here joint1 and joint2. It is available in ros.
+- Joint Effort Controller - To control the torque applied to the particular joint. Here the torque is used to control joint1. Joint2 is a passive joint. It is available in ros.
+- Balancing algorithm - To balance the pendulum in an upright position we have written a python program which commands the Joint Effort Controller how to change by reading joint values from Joint State Publisher.
 
 ### Balancing Algorithm
 

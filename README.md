@@ -27,8 +27,5 @@ Here we use the Linear Quadratic Regulator(LQR) to achieve stability around the 
 
 This video demostrates the working of the robot when a small disturbance is given to the arm.
 
-[![alt youtubelink](Images/youtube_thumbnail.png)](https://www.youtube.com/watch?v=TlEo0WCmKsQ&feature=youtu.be "Inverted Pendulum")
-
-
 ### Note
 >Put these files inside src of catkin workspace

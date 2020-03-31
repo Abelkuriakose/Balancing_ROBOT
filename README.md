@@ -1,7 +1,7 @@
 # Balancing_ROBOT
 Balancing Rotary Inverted Pendulum
 
-Balancing of Rotary Inverted Pendulum   ---> convert to latex
+Balancing of Rotary Inverted Pendulum
 
 Construction of Robot
 The robot is made of three parts - base, arm, pendulum.

@@ -21,3 +21,6 @@ Balancing algorithm - To balance the pendulum in an upright position we have wri
 ### Balancing Algorithm
 
 Here we use the Linear Quadratic Regulator(LQR) to achieve stability around the unstable equilibrium point(i.e., upright position). Since this algorithm is valid for a small range of values of angle for pendulum, we implement a pid controller for values outside this range(or for higher values of deviations in pendulum’s upright position). PID controller alone would not be able to stabilize the system, as it is very difficult to tune the pid values. PID results in a drift, which after some time accumulates and makes the system unstable. 
+
+### Note
+>Put this files inside src of catkin workspace

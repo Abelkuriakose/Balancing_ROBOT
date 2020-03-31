@@ -5,10 +5,11 @@
 ### Construction of Robot
 
 The robot is made of three parts - base, arm, pendulum.
+Base Link | Arm | Pendulum
+------------ | ------------- | -------------
+<img src="Images/base.png" width="200"/> | <img src="Images/arm.png" width="300"/> | <img src="Images/pendulum.png" width = "60"/>
 
-<img src="Images/base.png" width="200"/><img src="Images/arm.png" width="300"/><img src="Images/pendulum.png" width = "60"/>
 
-<pre>          Base                            Arm 	                 Pendulum</pre>
 
 They were modelled in solidworks, converted to urdf using sw2urdf plugin. The urdf is used by ROS to control robot and by  gazebo to simulate the robot.
 

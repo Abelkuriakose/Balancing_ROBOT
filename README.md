@@ -5,9 +5,9 @@
 ### Construction of Robot
 
 The robot is made of three parts - base, arm, pendulum.
-Base Link | Arm | Pendulum
------------- | ------------- | -------------
-<img src="Images/base.png" width="200"/> | <img src="Images/arm.png" width="300"/> | <img src="Images/pendulum.png" width = "60"/>
+Base Link | Arm | Pendulum | Assembled-Setup
+------------ | ------------- | ------------- | -------------
+<img src="Images/base.png" width="200"/> | <img src="Images/arm.png" width="300"/> | <img src="Images/pendulum.png" width = "60"/> | <img src="Images/assembled_setup.png" width = "150"/>
 
 
 

@@ -32,9 +32,8 @@ Here we use Reinforcement Learning to balance the pendullum. The algorithm of re
 
 This video demostrates the working of the robot when a small disturbance is given to the arm.
 
-#### Using LQR
+####           Using LQR            Using DQN
 [<img src="Images/youtube_thumbnail.png" width="200"/>](https://www.youtube.com/watch?v=TlEo0WCmKsQ&feature=youtu.be "LQR Control")
-#### Using DQN
 [<img src="Images/youtube_thumbnail.png" width="200"/>](https://youtu.be/wCGOvAL2JPk "DQN Control")
 
 ### Note

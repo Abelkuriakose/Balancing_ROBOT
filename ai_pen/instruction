@@ -1,0 +1,3 @@
+Excecute this in shell to make tensor flow work
+
+export CUDA_VISIBLE_DEVICES=""

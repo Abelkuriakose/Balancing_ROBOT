@@ -21,7 +21,9 @@ They were modelled in solidworks, converted to urdf using [sw2urdf](http://wiki.
 
 ### Balancing Algorithm
 
-Here we use the Linear Quadratic Regulator(LQR) to achieve stability around the unstable equilibrium point(i.e., upright position). Since this algorithm is valid for a small range of values of angle for pendulum, we implement a pid controller for values outside this range(or for higher values of deviations in pendulum’s upright position). PID controller alone would not be able to stabilize the system, as it is very difficult to tune the pid values. PID results in a drift, which after some time accumulates and makes the system unstable. 
+## Classical Approach
+Here we use the Linear Quadratic Regulator(LQR) and poleplacement to achieve stability around the unstable equilibrium point(i.e., upright position). The code for this is included in the package called "\robo". Since this algorithm is valid for a small range of values of angle for pendulum, we implement a pid controller for values outside this range(or for higher values of deviations in pendulum’s upright position). PID controller alone would not be able to stabilize the system, as it is very difficult to tune the pid values. PID results in a drift, which after some time accumulates and makes the system unstable. 
+
 
 ### Video
 

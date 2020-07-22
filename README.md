@@ -30,9 +30,9 @@ Here we use Reinforcement Learning to balance the pendullum. The algorithm of re
 
 ### Video
 
-This video demostrates the working of the robot when a small disturbance is given to the arm.
-
-Using LQR | Using DQN
+1. Using LQR - This video demostrates the working of the robot when a small disturbance is given to the arm.
+2. Using DQN - This video demonstrate the robot trying to learn to balance and after 1700 episodes able to fully balance the pendulum.
+1. Using LQR | 2. Using DQN
 ------------ | -------------
 [<img src="Images/lqr_thumbnail.png" width="200"/>](https://www.youtube.com/watch?v=TlEo0WCmKsQ&feature=youtu.be "LQR Control") | [<img src="Images/rl_thumbnail.png" width="223"/>](https://youtu.be/wCGOvAL2JPk "DQN Control")
 

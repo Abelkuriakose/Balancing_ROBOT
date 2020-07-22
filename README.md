@@ -34,7 +34,7 @@ This video demostrates the working of the robot when a small disturbance is give
 
 ####           Using LQR            Using DQN
 [<img src="Images/lqr_thumbnail.png" width="200"/>](https://www.youtube.com/watch?v=TlEo0WCmKsQ&feature=youtu.be "LQR Control")
-[<img src="Images/rl_thumbnail.png" width="225"/>](https://youtu.be/wCGOvAL2JPk "DQN Control")
+[<img src="Images/rl_thumbnail.png" width="222"/>](https://youtu.be/wCGOvAL2JPk "DQN Control")
 
 ### Note
 >Put these files inside src of catkin workspace

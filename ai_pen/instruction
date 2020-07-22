@@ -1,3 +1,3 @@
-Excecute this in shell to make tensor flow work
+Excecute this in shell to make tensor flow work with the cpu.
 
 export CUDA_VISIBLE_DEVICES=""
